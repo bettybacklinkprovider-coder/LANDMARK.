@@ -1,6 +1,8 @@
 {
-  "name": "Nocturne Estate",
+  "name": " LANDMARK.",
   "description": "Private architectural portfolio and luxury real estate acquisition platform for high-net-worth residences.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
